@@ -51,7 +51,7 @@ Souqi is a fully functional and responsive e-commerce mobile application built e
 ![home2](https://github.com/user-attachments/assets/1f17e2bc-fc3e-47a9-b5f2-054d426f5bba)
 ![home1](https://github.com/user-attachments/assets/24fa6ab9-0c2d-4734-b479-9bc4b9323457)
 ![home](https://github.com/user-attachments/assets/d3d81993-a6b0-4c71-877e-2fa994521df9)
-![image](https://github.com/user-attachments/assets/46f86e0c-1ccc-461b-b248-07b8ee11947a)
+![details](https://github.com/user-attachments/assets/9900431e-b3a1-4a56-9faa-d27852fb0736)
 ![image](https://github.com/user-attachments/assets/753c4811-e61c-4c22-b440-e03a47c3b7b5)
 ![image](https://github.com/user-attachments/assets/ca3e4baf-936c-4700-8229-7f5d420efa97)
 ![image](https://github.com/user-attachments/assets/73f87da4-a924-46cd-8a11-81f897cfe4da)
